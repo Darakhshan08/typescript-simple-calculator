@@ -1,0 +1,17 @@
+npm init           //for package.json file
+
+npm i inquirer     //for user input
+
+npm i --save-dev @types/inquirer
+
+
+
+link gitHub
+https://github.com/panaverse/learn-typescript/blob/master/NODE_PROJECTS/project00_calculator/readme.md
+
+link linkedin online 2nd class video   (simple Calculator)
+https://www.linkedin.com/events/7174238808236843008/comments/
+
+
+link linkedin online 1st class video
+https://www.linkedin.com/events/7173851786829656064/comments/
